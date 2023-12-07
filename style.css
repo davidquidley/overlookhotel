@@ -6,15 +6,14 @@
 .hide {
   display: none;
   };
-#pics, #break {
-  display: flex;
+.center {
+  flex: 1;
+  width: 50%;
+  text-align: center;
+}
+#pics {
+  display:flex;
   justify-content: center;
   align-items: center;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
   text-align: center;
 }
