@@ -1,0 +1,1 @@
+Creating a mock site for The Overlook Hotel from Stephen King's "The Shining". Beginning with a simple slide page, will expand to a full mock-hotel booking experience with additional references to book and movie.
