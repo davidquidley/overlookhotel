@@ -17,3 +17,37 @@
   align-items: center;
   text-align: center;
 }
+.title {
+  font-family: "Beau Rivage";
+  text-align: center;
+  background-color:#b09037;
+  color:white;
+}
+body {
+  background-color: #b09037;
+}
+#break, #tub, #check_in {
+  border: 2px double white;
+  background-color: #c7a675;
+  color:white;
+  margin-bottom: 50px;
+  font-family:"Old Standard TT";
+}
+#left_flex {
+  display:flex;
+  flex-direction: column;
+}
+#top_flexer {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#right_flexer {
+  display: flex;
+  flex-direction: column;
+}
+#rfpic {
+  flex:1;
+  justify-content: center;
+}
+
