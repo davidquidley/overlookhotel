@@ -31,7 +31,7 @@ body {
   background-color: #c7a675;
   color:white;
   margin-bottom: 50px;
-  font-family:"Cormorant Garamond";
+  font-family: "Cormorant Garamond", "serif";
 }
 #left_flex {
   display:flex;
